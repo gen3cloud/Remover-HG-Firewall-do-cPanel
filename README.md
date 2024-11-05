@@ -13,6 +13,7 @@ Este script em Bash remove o firewall HG de servidores Linux (com cPanel), como 
 2. Dê permissão de execução:
    ```bash
    chmod +x remove_firewall.sh
+3. Execute o arquivo com ./remove_firewall.sh
 
 ## ⚠️ Aviso
 
